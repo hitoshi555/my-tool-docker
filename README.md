@@ -6,6 +6,7 @@ Zoom などでミーティングしている時に図で説明したいがマウ
 
 ## 使用言語・技術
 
+docker  
 react  
 nest.js  
 typescript  
@@ -38,7 +39,7 @@ $ docker-compose up
 ```
 
 ngrok で外部に公開する。  
-設定は以下 url 参照。
+設定は以下 url 参照。  
 [qiita](https://qiita.com/reona396/items/d7a7958b68d738f7c56e)
 
 ```
